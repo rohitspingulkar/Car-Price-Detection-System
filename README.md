@@ -30,3 +30,4 @@ Preview of the app:
 Nice and easy project for beginers.
 Any doubts you can directly contact me on email or git.
 
+Kaggle Data Link : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
